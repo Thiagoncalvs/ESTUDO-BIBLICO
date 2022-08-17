@@ -1,2 +1,2 @@
-# ESTUDO BIBLICO
+# ESTUDO BÍBLICO
  Plataforma offline de estudo bíblico.

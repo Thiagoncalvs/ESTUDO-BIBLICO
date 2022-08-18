@@ -1,0 +1,26 @@
+:root{
+    --fundocor: #323437;
+    --textocorprincipal: #D1D0C5;
+    --textocorsecundaria: #646669;
+    --cordetalhe: #E2B714;
+}
+body{
+    background-color: var(--fundocor);
+    color: var(--textocorprincipal);
+    font-size: 1.4rem;
+}
+.cursor{
+    background-color: var(--cordetalhe);
+    color: var(--fundocor);
+}
+.done{
+    color: var(--textocorsecundaria);
+}
+#typing{
+    margin: 0 auto;
+    width: 800px;
+}
+#starts{
+    margin: 0 auto;
+    width: 800px;
+}
